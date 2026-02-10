@@ -21,8 +21,6 @@
 Frontend and backend dev with preferences for **Python**, **C++**, and **C#**.  
 All opinions are my own.
 
-### Rapid Fire
-
 I'm currently working on:
 
 - **L3 data ingestion in Python**
