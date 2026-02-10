@@ -24,14 +24,11 @@ python, cpp, and c#.
 
 All opinions are my own.</h3>**
 
-**<h3 align="left">Rapid Fire</h3>**
+I'm currently working on:
 
-- I'm currently working on: 
-** L3 data ingestion in python **
-** C++ powered screener leveraging Dukascopy data **
-** MFT & LFT trading algorithms **
-** PPA pricing mechanisms **
-
-</p>
+- **L3 data ingestion in Python**
+- **C++ powered screener leveraging Dukascopy data**
+- **MFT & LFT trading algorithms**
+- **PPA pricing mechanisms**
 
 
