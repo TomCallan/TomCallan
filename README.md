@@ -55,7 +55,7 @@
 
 ### Background
 
-Previously consulted for **Copenhagen Infrastructure Partners (CIP)** on energy market analysis and **PPA pricing mechanisms**.
+Previously consulted for **Monarch AG** on energy market analysis and **PPA pricing mechanisms**.
 Experienced in backtesting frameworks, market data engineering (Polars, DuckDB, Parquet), and building trading infrastructure from scratch.
 
 > *All opinions are my own.*
